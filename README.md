@@ -10,4 +10,8 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <br>
 <h3 align="center">Versão Web :computer:</h3>
+<br>
 <img src="https://github.com/edujoker/Mario-Bros/blob/main/img/Mario%20Desktop.png?raw=true" />
+<br>
+<h3 align="center">Versão Mobile :iphone:</h3>
+
