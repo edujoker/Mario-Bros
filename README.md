@@ -14,4 +14,6 @@
 <img src="https://github.com/edujoker/Mario-Bros/blob/main/img/Mario%20Desktop.png?raw=true" />
 <br>
 <h3 align="center">Versão Mobile :iphone:</h3>
+<br>
+<div align="center"><img src="https://github.com/edujoker/Mario-Bros/blob/main/img/Mario%20mobile.png?raw=true" /></div>
 
